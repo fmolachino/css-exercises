@@ -1,0 +1,30 @@
+/*
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.blacky {
+    background-color: black;
+    color: white;
+}
+.yellowy {
+    background-color: yellow;
+    color: black;
+}
+*/
+
+.blacky,
+.yellowy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.blacky {
+    background-color: black;
+    color: white;
+}
+
+.yellowy {
+    background-color: yellow;
+    color: black;
+}
